@@ -1,0 +1,59 @@
+body {
+    min-height: 90vh;
+    background-image: url("file:///home/ayouta/Bureau/Domcheck/background.jpeg");
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkkhaki(0, 47%, 62%) 
+}
+.container {
+    width: 80%;
+    height: 700px;
+    background-color: darksalmon; 
+    border: 1px solid transparent;
+    opacity: 0.9;
+    border-radius: 70px;
+}
+totale {
+    border-bottom: 1px solid rebeccapurple 
+
+}
+.totale p {
+    margin-left: 30px;
+    font-size: 18px;
+    color: rgb(0, 0, 0) ;
+
+}
+.img {
+    width: 15px;
+    height: 15px;
+    margin-bottom: 15px;
+}
+.fas {
+    color: indianred; 
+
+}
+.row {
+    display : inline-flex; 
+    align-items: center;
+    justify-content: left;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+
+}
+span {
+    color: rgb(0, 0, 0);
+
+}
+.price { 
+    color: rgb(20, 20, 20); 
+
+}
+.fa-heart {
+    color: firebrick;
+} 
+.red {
+    color: red; 
+}
